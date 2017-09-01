@@ -25,10 +25,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0281863"
-     inkscape:cx="533.83552"
+     inkscape:cx="535.78069"
      inkscape:cy="402.16448"
      inkscape:document-units="mm"
-     inkscape:current-layer="g4625"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="in"
      borderlayer="true"
@@ -264,21 +264,59 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="hosting">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.22222137px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-75.397507"
+       y="76.811508"
+       id="text4534"
+       transform="rotate(-57.451874)"><tspan
+         sodipodi:role="line"
+         id="tspan4532"
+         x="-75.397507"
+         y="76.811508"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.22222137px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke-width:0.26458332">Services</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="62.531227"
+       y="77.971046"
+       id="text4538"><tspan
+         sodipodi:role="line"
+         id="tspan4550"
+         x="62.531227"
+         y="77.971046">- GitHub, GitLab, Bitbucket</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4552"
+         x="62.531227"
+         y="95.609932">- Stash (merged into Bitbucket)</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4554"
+         x="62.531227"
+         y="113.24883">- Gitorious (bought by GitLab)</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4556"
+         x="62.531227"
+         y="130.88771"></tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="demo"
+     inkscape:label="demos"
      style="display:none">
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:84.66666412px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Heavy Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-54.048313"
-       y="192.02345"
+       x="-74.119911"
+       y="191.83574"
        id="text4615"
-       transform="rotate(-31.25625)"><tspan
+       transform="rotate(-29.182086)"><tspan
          sodipodi:role="line"
-         id="tspan4613"
-         x="-54.048313"
-         y="192.02345"
-         style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:84.66666412px;font-family:Lato;-inkscape-font-specification:'Lato, Heavy Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;fill-opacity:1;stroke-width:0.26458332">DEMO</tspan></text>
+         id="tspan4529"
+         x="-74.119911"
+         y="191.83574">DEMOS</tspan></text>
   </g>
   <script
      ns1:version="1.5.5"
