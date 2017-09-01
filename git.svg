@@ -25,8 +25,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0281863"
-     inkscape:cx="529.94517"
-     inkscape:cy="408"
+     inkscape:cx="533.83552"
+     inkscape:cy="402.16448"
      inkscape:document-units="mm"
      inkscape:current-layer="layer5"
      showgrid="false"
@@ -199,22 +199,34 @@
          y="161.17566">Store what?</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.63888889px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
-       x="36.798206"
-       y="42.202152"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.63888931px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="34.739567"
+       y="36.02623"
        id="text4818"><tspan
          sodipodi:role="line"
-         id="tspan4529">source code</tspan><tspan
+         id="tspan4552"
+         x="34.739567"
+         y="36.02623">source code</tspan><tspan
          sodipodi:role="line"
-         id="tspan4531">gerber files</tspan><tspan
+         id="tspan4554"
+         x="34.739567"
+         y="58.074841">gerber files</tspan><tspan
          sodipodi:role="line"
-         id="tspan4533">static web pages</tspan><tspan
+         id="tspan4556"
+         x="34.739567"
+         y="80.123451">static web pages</tspan><tspan
          sodipodi:role="line"
-         id="tspan4535">meeting minutes</tspan><tspan
+         id="tspan4558"
+         x="34.739567"
+         y="102.17206">meeting minutes</tspan><tspan
          sodipodi:role="line"
-         id="tspan4537">slide presentations*</tspan><tspan
+         id="tspan4560"
+         x="34.739567"
+         y="124.22068">slide presentations*</tspan><tspan
          sodipodi:role="line"
-         id="tspan4539">etc.</tspan></text>
+         id="tspan4562"
+         x="34.739567"
+         y="146.26929">etc.</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
