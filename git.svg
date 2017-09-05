@@ -143,7 +143,7 @@
          style="fill:#202020;fill-opacity:1;stroke-width:0.26458332">* optional</tspan></text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="why"
      id="g4625"
      inkscape:groupmode="layer">
@@ -160,26 +160,36 @@
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.75px;font-family:Lato;-inkscape-font-specification:'Lato, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;fill-opacity:1">Why git?</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.63888889px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.63888931px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="26.762327"
        y="98.557442"
        id="text4629"><tspan
          sodipodi:role="line"
-         id="tspan4663">Cut down on OOPSes</tspan><tspan
+         id="tspan4663"
+         x="26.762327"
+         y="98.557442">Cut down on OOPSes</tspan><tspan
          sodipodi:role="line"
-         id="tspan4665">Integrity of stored files</tspan><tspan
+         id="tspan4665"
+         x="26.762327"
+         y="120.60606">Integrity of stored files</tspan><tspan
          sodipodi:role="line"
-         id="tspan4667">Easier collaboration/sharing</tspan><tspan
+         id="tspan4667"
+         x="26.762327"
+         y="142.65466">Easier collaboration/sharing</tspan><tspan
          sodipodi:role="line"
-         id="tspan4669">Offline/decentralized work</tspan><tspan
+         id="tspan4669"
+         x="26.762327"
+         y="164.70328">Offline/decentralized work</tspan><tspan
          sodipodi:role="line"
-         id="tspan4671">Loads of public projects</tspan></text>
+         id="tspan4671"
+         x="26.762327"
+         y="186.75189">Loads of public projects</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="examples"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.63888931px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
