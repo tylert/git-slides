@@ -28,7 +28,7 @@
      inkscape:cx="527.99999"
      inkscape:cy="407.99999"
      inkscape:document-units="mm"
-     inkscape:current-layer="g4625"
+     inkscape:current-layer="layer6"
      showgrid="false"
      units="in"
      borderlayer="true"
@@ -95,41 +95,35 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="slides"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:83.15550995px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e55c00;fill-opacity:1;stroke:none;stroke-width:0.89095193"
-       x="67.050026"
-       y="141.33905"
+       x="66.262489"
+       y="147.31129"
        id="text4556"
        transform="rotate(12.471084)"><tspan
          sodipodi:role="line"
          id="tspan4628"
-         x="67.050026"
-         y="141.33905"
+         x="66.262489"
+         y="147.31129"
          style="stroke-width:0.89095193">Slides</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.63888931px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#fffffe;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.63888889px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#fffffe;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="144.10487"
        y="40.143509"
        id="text4542"><tspan
          sodipodi:role="line"
-         id="tspan4651"
-         x="144.10487"
-         y="40.143509">Inkscape 0.92</tspan><tspan
+         id="tspan4673">Inkscape 0.92</tspan><tspan
          sodipodi:role="line"
-         id="tspan4653"
-         x="144.10487"
-         y="62.19212">JessyInk Extension (incl. 0.48+)</tspan><tspan
+         id="tspan4675">JessyInk Extension (incl. 0.48+)</tspan><tspan
          sodipodi:role="line"
-         id="tspan4655"
-         x="144.10487"
-         y="84.24073">web browser</tspan><tspan
+         id="tspan4677">Lato font (Open Font License)</tspan><tspan
          sodipodi:role="line"
-         id="tspan4657"
-         x="144.10487"
-         y="106.28934">git*</tspan></text>
+         id="tspan4679">web browser</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4681">git*</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#202020;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -189,7 +183,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="examples"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.63888931px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
