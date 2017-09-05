@@ -28,7 +28,7 @@
      inkscape:cx="527.99999"
      inkscape:cy="407.99999"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="in"
      borderlayer="true"
@@ -278,7 +278,7 @@
          sodipodi:role="line">etc.</tspan></text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="repo"
      id="layer4"
      inkscape:groupmode="layer">
@@ -295,15 +295,15 @@
          sodipodi:role="line"
          id="tspan4929"
          x="61.759239"
-         y="128.84062">Magic &quot;.git&quot; folder</tspan><tspan
+         y="128.84064">Magic &quot;.git&quot; folder</tspan><tspan
          sodipodi:role="line"
          id="tspan4931"
          x="61.759239"
-         y="150.88924">Working tree (or bare)</tspan><tspan
+         y="150.88925">Working tree (or bare)</tspan><tspan
          sodipodi:role="line"
          id="tspan4933"
          x="61.759239"
-         y="172.93784">Staging area</tspan></text>
+         y="172.93785">Staging area</tspan></text>
     <text
        id="text4769"
        y="75.140411"
@@ -316,44 +316,52 @@
          sodipodi:role="line">Repo{,sitor{y,ies}}</tspan></text>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="hosting"
      id="layer2"
      inkscape:groupmode="layer">
     <text
-       transform="rotate(-57.451874)"
+       transform="rotate(-18.066679)"
        id="text4534"
-       y="76.811508"
-       x="-75.397507"
+       y="64.511314"
+       x="0.2497199"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.22222137px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.22222137px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke-width:0.26458332"
-         y="76.811508"
-         x="-75.397507"
+         y="64.511314"
+         x="0.2497199"
          id="tspan4532"
          sodipodi:role="line">Services</tspan></text>
     <text
        id="text4538"
-       y="79.257698"
-       x="55.855148"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       y="81.316345"
+       x="15.196985"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.63888931px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
-         y="79.257698"
-         x="55.855148"
-         id="tspan4634"
-         sodipodi:role="line">GitHub, GitLab, Bitbucket</tspan><tspan
-         y="96.896584"
-         x="55.855148"
-         id="tspan4636"
-         sodipodi:role="line">Stash (merged into Bitbucket)</tspan><tspan
-         y="114.53548"
-         x="55.855148"
-         id="tspan4638"
-         sodipodi:role="line">Gitorious (bought by GitLab)</tspan><tspan
-         y="132.17436"
-         x="55.855148"
-         id="tspan4640"
-         sodipodi:role="line">self-hosted, USB drives, local web</tspan></text>
+         sodipodi:role="line"
+         id="tspan4959"
+         x="15.196985"
+         y="81.316345">GitHub, GitLab, Bitbucket</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4961"
+         x="15.196985"
+         y="103.36496">Stash (merged into Bitbucket)</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4963"
+         x="15.196985"
+         y="125.41357">Gitorious (bought by GitLab)</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4965"
+         x="15.196985"
+         y="147.46217">Girocco (repo.or.cz), many others</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4967"
+         x="15.196985"
+         y="169.51079">USB drives, gitweb</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4969"
+         x="15.196985"
+         y="191.5594">Gitosis, Gitolite, Gitea, Gogs</tspan></text>
   </g>
   <g
      style="display:none"
