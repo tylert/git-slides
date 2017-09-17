@@ -25,16 +25,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0281863"
-     inkscape:cx="527.99999"
+     inkscape:cx="529.94516"
      inkscape:cy="407.99999"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="g4625"
      showgrid="false"
      units="in"
      borderlayer="true"
      inkscape:window-width="1920"
      inkscape:window-height="1021"
-     inkscape:window-x="0"
+     inkscape:window-x="3840"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:pagecheckerboard="true"
@@ -103,46 +103,10 @@
          y="158.88216">VA3DGN</tspan></text>
   </g>
   <g
-     style="display:none"
-     inkscape:label="slides"
-     id="layer6"
-     inkscape:groupmode="layer">
-    <text
-       transform="rotate(12.471084)"
-       id="text4556"
-       y="156.80354"
-       x="68.625397"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.55555725px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e55c00;fill-opacity:1;stroke:none;stroke-width:0.89095193"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.55555725px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.89095193"
-         y="156.80354"
-         x="68.625397"
-         id="tspan4628"
-         sodipodi:role="line">Slides</tspan></text>
-    <text
-       id="text4542"
-       y="45.290112"
-       x="143.59023"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.63888931px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#fffffe;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         id="tspan4921"
-         x="143.59023"
-         y="45.290112">Inkscape 0.92</tspan><tspan
-         sodipodi:role="line"
-         id="tspan4923"
-         x="143.59023"
-         y="67.338722">JessyInk Extension (incl. 0.48+)</tspan><tspan
-         sodipodi:role="line"
-         id="tspan4925"
-         x="143.59023"
-         y="89.387337">Lato font (Open Font License)</tspan></text>
-  </g>
-  <g
      inkscape:groupmode="layer"
      id="g4625"
      inkscape:label="why"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -317,7 +281,7 @@
          sodipodi:role="line">Repo{,sitor{y,ies}}</tspan></text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="hosting"
      id="layer2"
      inkscape:groupmode="layer">
