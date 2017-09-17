@@ -28,7 +28,7 @@
      inkscape:cx="529.94516"
      inkscape:cy="407.99999"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
      borderlayer="true"
@@ -247,7 +247,7 @@
          y="145.4973">etc.</tspan></text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="services"
      id="layer2"
      inkscape:groupmode="layer">
@@ -340,49 +340,45 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="basics"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff6000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="153.37599"
-       y="-31.497351"
+       x="201.30478"
+       y="-21.286766"
        id="text4886"
        transform="rotate(30.2069)"><tspan
          sodipodi:role="line"
          id="tspan4884"
-         x="153.37599"
-         y="-31.497351"
+         x="201.30478"
+         y="-21.286766"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.75px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff6000;fill-opacity:1;stroke-width:0.26458332">Basics</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="48.120739"
-       y="45.032795"
+       x="18.270441"
+       y="55.068672"
        id="text4890"><tspan
          sodipodi:role="line"
-         id="tspan4918"
-         x="48.120739"
-         y="45.032795">init</tspan><tspan
+         id="tspan4992"
+         x="18.270441"
+         y="55.068672">init / clone</tspan><tspan
          sodipodi:role="line"
-         id="tspan4920"
-         x="48.120739"
-         y="71.491127">status</tspan><tspan
+         id="tspan4994"
+         x="18.270441"
+         y="81.527008">status</tspan><tspan
          sodipodi:role="line"
-         id="tspan4922"
-         x="48.120739"
-         y="97.949463">add</tspan><tspan
+         id="tspan4996"
+         x="18.270441"
+         y="107.98534">add / rm</tspan><tspan
          sodipodi:role="line"
-         id="tspan4924"
-         x="48.120739"
-         y="124.40779">commit</tspan><tspan
+         id="tspan4998"
+         x="18.270441"
+         y="134.44366">commit</tspan><tspan
          sodipodi:role="line"
-         id="tspan4926"
-         x="48.120739"
-         y="150.86612">push</tspan><tspan
-         sodipodi:role="line"
-         id="tspan4928"
-         x="48.120739"
-         y="177.32446">pull (fetch + merge)</tspan></text>
+         id="tspan5000"
+         x="18.270441"
+         y="160.90199">push / pull (fetch + merge)</tspan></text>
   </g>
   <g
      style="display:none"
