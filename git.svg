@@ -28,7 +28,7 @@
      inkscape:cx="529.94516"
      inkscape:cy="407.99999"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
      borderlayer="true"
@@ -191,12 +191,12 @@
     <text
        transform="rotate(89.516077)"
        id="text4898"
-       y="-240.71695"
-       x="31.76977"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.22222137px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       y="-246.87961"
+       x="33.365856"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.22222137px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#d8848d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
-         y="-240.71695"
-         x="31.76977"
+         y="-246.87961"
+         x="33.365856"
          id="tspan4630"
          sodipodi:role="line">Some Users</tspan></text>
   </g>
@@ -340,51 +340,51 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="basics"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff6000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="201.30478"
-       y="-21.286766"
+       x="206.17441"
+       y="-19.059792"
        id="text4886"
        transform="rotate(30.2069)"><tspan
          sodipodi:role="line"
          id="tspan4884"
-         x="201.30478"
-         y="-21.286766"
+         x="206.17441"
+         y="-19.059792"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.75px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff6000;fill-opacity:1;stroke-width:0.26458332">Basics</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="18.270441"
-       y="55.068672"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="131.75304"
+       y="51.980713"
        id="text4890"><tspan
          sodipodi:role="line"
-         id="tspan4992"
-         x="18.270441"
-         y="55.068672">init / clone</tspan><tspan
+         id="tspan5075"
+         x="131.75304"
+         y="51.980713">init / clone</tspan><tspan
          sodipodi:role="line"
-         id="tspan4994"
-         x="18.270441"
-         y="81.527008">status</tspan><tspan
+         id="tspan5077"
+         x="131.75304"
+         y="78.439049">status / log</tspan><tspan
          sodipodi:role="line"
-         id="tspan4996"
-         x="18.270441"
-         y="107.98534">add / rm</tspan><tspan
+         id="tspan5079"
+         x="131.75304"
+         y="104.89738">add / rm</tspan><tspan
          sodipodi:role="line"
-         id="tspan4998"
-         x="18.270441"
-         y="134.44366">commit</tspan><tspan
+         id="tspan5081"
+         x="131.75304"
+         y="131.3557">commit</tspan><tspan
          sodipodi:role="line"
-         id="tspan5000"
-         x="18.270441"
-         y="160.90201">push / pull (fetch + merge)</tspan></text>
+         id="tspan5083"
+         x="131.75304"
+         y="157.81404">push / pull (fetch + merge)</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="remotes"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.22222137px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6500ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -400,20 +400,59 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.63888931px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="9.5212126"
-       y="62.273903"
+       y="59.443272"
        id="text5019"><tspan
          sodipodi:role="line"
-         id="tspan5041"
+         id="tspan5055"
          x="9.5212126"
-         y="62.273903">Some place to push / pull from</tspan><tspan
+         y="59.443272">Place to clone / push / pull from</tspan><tspan
          sodipodi:role="line"
-         id="tspan5043"
+         id="tspan5057"
          x="9.5212126"
-         y="84.322517">Link &quot;working&quot; repo to &quot;bare&quot; one</tspan><tspan
+         y="81.491882">Link &quot;working&quot; repo to &quot;bare&quot; one</tspan><tspan
          sodipodi:role="line"
-         id="tspan5045"
+         id="tspan5059"
          x="9.5212126"
-         y="106.37112">Done to facilitate collaboration</tspan></text>
+         y="103.5405">Sharing with others</tspan><tspan
+         sodipodi:role="line"
+         id="tspan5061"
+         x="9.5212126"
+         y="125.5891">Backup of your repo</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="branches"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.69444466px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#22a1b8;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="76.169724"
+       y="59.700603"
+       id="text5088"><tspan
+         sodipodi:role="line"
+         id="tspan5086"
+         x="76.169724"
+         y="59.700603"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.69444466px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#22a1b8;fill-opacity:1;stroke-width:0.26458332">Branches</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.63888931px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="30.879616"
+       y="82.088326"
+       id="text5092"><tspan
+         sodipodi:role="line"
+         id="tspan5094"
+         x="30.879616"
+         y="82.088326">Alternate universes for files</tspan><tspan
+         sodipodi:role="line"
+         id="tspan5096"
+         x="30.879616"
+         y="104.13694">asdf</tspan><tspan
+         sodipodi:role="line"
+         id="tspan5098"
+         x="30.879616"
+         y="126.18555">&quot;Topic&quot; or &quot;feature&quot; branches</tspan></text>
   </g>
   <g
      style="display:none"
@@ -425,7 +464,7 @@
        id="text4615"
        y="191.83574"
        x="-74.119911"
-       style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:84.66666412px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Heavy Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:84.66666412px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Heavy Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0021ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          y="191.83574"
          x="-74.119911"
