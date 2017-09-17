@@ -28,7 +28,7 @@
      inkscape:cx="529.94516"
      inkscape:cy="407.99999"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer10"
      showgrid="false"
      units="in"
      borderlayer="true"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -340,7 +340,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="basics"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff6000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -374,7 +374,7 @@
          sodipodi:role="line"
          id="tspan5081"
          x="131.75304"
-         y="131.3557">commit</tspan><tspan
+         y="131.35571">commit</tspan><tspan
          sodipodi:role="line"
          id="tspan5083"
          x="131.75304"
@@ -423,36 +423,40 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="branches"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.69444466px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#22a1b8;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="76.169724"
-       y="59.700603"
+       y="58.671284"
        id="text5088"><tspan
          sodipodi:role="line"
          id="tspan5086"
          x="76.169724"
-         y="59.700603"
+         y="58.671284"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.69444466px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#22a1b8;fill-opacity:1;stroke-width:0.26458332">Branches</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.63888931px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="30.879616"
-       y="82.088326"
+       x="36.540882"
+       y="76.427063"
        id="text5092"><tspan
          sodipodi:role="line"
-         id="tspan5094"
-         x="30.879616"
-         y="82.088326">Alternate universes for files</tspan><tspan
+         id="tspan5287"
+         x="36.540882"
+         y="76.427063">Alternate universes for files</tspan><tspan
          sodipodi:role="line"
-         id="tspan5096"
-         x="30.879616"
-         y="104.13694">asdf</tspan><tspan
+         id="tspan5289"
+         x="36.540882"
+         y="98.475677">Tracking in-progress work</tspan><tspan
          sodipodi:role="line"
-         id="tspan5098"
-         x="30.879616"
-         y="126.18555">&quot;Topic&quot; or &quot;feature&quot; branches</tspan></text>
+         id="tspan5291"
+         x="36.540882"
+         y="120.52428">Isolate risky changes</tspan><tspan
+         sodipodi:role="line"
+         id="tspan5293"
+         x="36.540882"
+         y="142.57291">&quot;Topic&quot; or &quot;feature&quot; branches</tspan></text>
   </g>
   <g
      style="display:none"
