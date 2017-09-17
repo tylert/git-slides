@@ -28,7 +28,7 @@
      inkscape:cx="529.94516"
      inkscape:cy="407.99999"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer6"
      showgrid="false"
      units="in"
      borderlayer="true"
@@ -295,7 +295,7 @@
          y="190.27275">USB drives, gitweb</tspan></text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="repos"
      id="layer4"
      inkscape:groupmode="layer">
@@ -379,6 +379,41 @@
          id="tspan5000"
          x="18.270441"
          y="160.90201">push / pull (fetch + merge)</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="remotes"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.22222137px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6500ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="27.791651"
+       y="180.64577"
+       id="text5015"><tspan
+         sodipodi:role="line"
+         id="tspan5013"
+         x="27.791651"
+         y="180.64577"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.22222137px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#6500ff;fill-opacity:1;stroke-width:0.26458332">Remotes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.63888931px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="9.5212126"
+       y="62.273903"
+       id="text5019"><tspan
+         sodipodi:role="line"
+         id="tspan5041"
+         x="9.5212126"
+         y="62.273903">Some place to push / pull from</tspan><tspan
+         sodipodi:role="line"
+         id="tspan5043"
+         x="9.5212126"
+         y="84.322517">Link &quot;working&quot; repo to &quot;bare&quot; one</tspan><tspan
+         sodipodi:role="line"
+         id="tspan5045"
+         x="9.5212126"
+         y="106.37112">Done to facilitate collaboration</tspan></text>
   </g>
   <g
      style="display:none"
