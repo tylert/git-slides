@@ -34,7 +34,7 @@
      borderlayer="true"
      inkscape:window-width="1920"
      inkscape:window-height="1021"
-     inkscape:window-x="3840"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:pagecheckerboard="true"
@@ -106,7 +106,7 @@
      inkscape:groupmode="layer"
      id="g4625"
      inkscape:label="why git"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -423,7 +423,7 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="branches"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.69444466px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#22a1b8;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -456,7 +456,7 @@
          sodipodi:role="line"
          id="tspan5293"
          x="36.540882"
-         y="142.57291">&quot;Topic&quot; or &quot;feature&quot; branches</tspan></text>
+         y="142.57289">&quot;Topic&quot; or &quot;feature&quot; branches</tspan></text>
   </g>
   <g
      style="display:none"
